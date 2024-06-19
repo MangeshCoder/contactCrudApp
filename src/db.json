@@ -1,0 +1,28 @@
+{
+  "contact": [
+    {
+      "firstName": "Rajesh",
+      "lastName": "Patil",
+      "email": "rajesh@example.com",
+      "id": "1"
+    },
+    {
+      "firstName": "Manish",
+      "lastName": "Kumar",
+      "email": "manish@gmail.com",
+      "id": "4376"
+    },
+    {
+      "id": "3af5",
+      "firstName": "Rahul",
+      "lastName": "Ghule",
+      "email": "rahul@gmail.com"
+    },
+    {
+      "id": "601d",
+      "firstName": "Anil",
+      "lastName": "Kumar",
+      "email": "anil@gmail.com"
+    }
+  ]
+}
